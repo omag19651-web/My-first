@@ -1,5 +1,2 @@
-telethon
-aiohttp
-pymongo
-openpyxl
-certifi
+aiogram
+google-genai
